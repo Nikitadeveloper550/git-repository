@@ -1,1 +1,1 @@
- "https://cdn.jsdelivr.net/npm/@finsweet/attributes-faq@1/faq.js" 
+ "https://cdn.jsdelivr.net/npm/@finsweet/attributes-accordion@1/accordion.js" 
